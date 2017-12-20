@@ -27,7 +27,7 @@ author: jho
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://ohjho.github.io/asphodel2018'
+url: 'https://crossfitasphodel.github.io/asphodel2018'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -43,7 +43,7 @@ contact_email: 'jho.sfu@gmail.com'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://ohjho.github.io/asphodel2018/images/'
+urlimg: 'https://crossfitasphodel.github.io/asphodel2018/images/'
 #urlimg: 'images/'
 
 
